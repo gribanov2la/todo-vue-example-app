@@ -1,5 +1,5 @@
 {
-  "name": "todo",
+  "name": "todo-vue-example-app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "element-ui": "^2.15.1",
+    "lodash": "^4.17.21",
     "vue": "^2.6.11",
     "vuex": "^3.4.0"
   },
