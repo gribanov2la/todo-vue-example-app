@@ -1,5 +1,7 @@
 # todo-vue-example-app
 
+Demo: https://gribanov2la.github.io/todo-vue-example-app/
+
 ## Project setup
 ```
 yarn install
